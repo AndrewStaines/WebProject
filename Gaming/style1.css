@@ -1,0 +1,29 @@
+.cont{
+    text-align: center;
+    font-size: 50px;
+    color: black;
+    background: rgb(0, 0, 0,0.19);
+    width: 500px;
+    padding: 75px;
+    border: 1rem solid black;
+    margin-left: 600px;
+}
+h1{
+    font-size: 75px;
+    text-align: center;
+}
+.submit{
+    background-color: black;
+    color: aliceblue;
+    font-size: 25px;
+    border: 5px solid black;
+    border-radius: 20px;
+    width: 150px;
+}
+.input{
+    border: 2px solid black;
+    border-radius: 15px;
+    height: 25px;
+    width: 250px;
+    font-size: 25px;
+}
